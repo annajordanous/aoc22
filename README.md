@@ -5,6 +5,6 @@ Using advent of code to play around a bit with Jupyter notebooks, improve practi
 
 https://adventofcode.com/
 
-can run the jupyter notebooks using Binder via:
+You can run the jupyter notebooks using Binder via:
  
 https://mybinder.org/v2/gh/annajordanous/aoc22/HEAD 
